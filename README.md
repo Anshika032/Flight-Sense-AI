@@ -106,3 +106,4 @@ Some aircraft suppress ADS-B identification (military, private jets) — these s
 ---
 
 Built with Python + React. Data from OpenSky Network.
+<img width="1583" height="938" alt="image" src="https://github.com/user-attachments/assets/23248093-e326-4d7c-ad6c-13da36d28a8f" />
