@@ -39,7 +39,7 @@
 ## Features
 - Real ICAO callsigns (IndiGo, Air India, Air Arabia, SpiceJet)
 - CSV parser + cleaner with physical bounds enforcement
-- MIL-STD-1553 style tiered alerts (ADVISORY → CAUTION → WARNING → EMERGENCY)
+- Tiered alert system (ADVISORY → CAUTION → WARNING → EMERGENCY) based on physics-derived risk thresholds
 - 6 flight phases: PREFLIGHT → TAKEOFF → CLIMB → CRUISE → DESCENT → LANDING
 - Isolation Forest + rule-based combined anomaly detection
 - Incident timeline reconstruction around anomalies
