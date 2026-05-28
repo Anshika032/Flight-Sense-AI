@@ -1,6 +1,6 @@
 # FlightSense AI ✈️
 
-> Real-time aerospace telemetry platform tracking live flights over India using OpenSky ADS-B data, ML anomaly detection, and a NASA-grade React dashboard backed by Supabase.
+> Real-time flight monitoring platform tracking live aircraft over India using OpenSky ADS-B data, ML anomaly detection (Isolation Forest), and a React dashboard backed by Supabase.
 
 ---
 
